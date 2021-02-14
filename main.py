@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-#Step 1: Define Input data, MGBM sampling, and time series modeling
+#Step 1: Define Input data, multivariate geometric brownian motion (MGBM) sampling, and time series modeling
 
 #number of time steps for MGBM time series for 1st approac
 n_t = 10000
